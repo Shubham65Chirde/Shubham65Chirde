@@ -10,7 +10,7 @@ Building scalable systems and exploring the depths of software engineering.
 * 🌐 **Full-Stack Development:** Designing and deploying robust web applications from frontend to backend.
 * ☁️ **Cloud Computing:** Exploring AWS infrastructure and optimizing deployment workflows.
 * 🤖 **IoT & Automation:** Integrating hardware with software to build smart, real-world solutions.
-* 📊 **Data Science:** Implementing machine learning models for predictive analysis and forecasting.
+* 📊 **Data Engineering:** Building pipelines and managing data architecture for modern apps.
 
 ---
 
@@ -28,13 +28,17 @@ Building scalable systems and exploring the depths of software engineering.
 ---
 
 ### 📊 GitHub Status
-![Shubham's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+
+![Shubham's Stats](https://github-readme-stats.vercel.app/api?username=Shubham65Chirde&show_icons=true&theme=visual_studio_code)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham65Chirde&layout=compact&theme=visual_studio_code)
 
 ---
 
 ### 🚀 Projects
 
+* **📱 Mivro**
+  * Full stack web application built using Angular, Node.js, and MongoDB with a scalable backend and dynamic frontend.
 * **📈 Stock Forecasting Using Timer-XL Transformer**
   * Advanced market trend prediction using deep learning and Transformer architectures.
 * **🏥 Health Care and Fitness Guider**
@@ -43,21 +47,19 @@ Building scalable systems and exploring the depths of software engineering.
   * A secure reporting platform designed to enhance community safety through streamlined data management.
 * **🤖 IoT Automation System**
   * Smart home/environment automation utilizing Arduino and custom hardware-software integration.
-* **📱 Mivro**
-  * [Brief description of the Mivro project].
 
 ---
 
 ### 📜 Certificates
-* **[Name of Certificate 1]** – [Issuing Organization, e.g., AWS/Coursera]
-* **[Name of Certificate 2]** – [Issuing Organization]
-* **[Name of Certificate 3]** – [Issuing Organization]
+* 🎓 **Data Analytics Essentials**
+* ☁️ **AWS Academy Data Engineering**
+* 🏗️ **AWS Academy Cloud Foundations**
+* 🛡️ **Networking Academy Cybersecurity**
 
 ---
 
 ### 📫 Reach Out
 * 📧 **Email:** [shubhamchirde65@gmail.com](mailto:shubhamchirde65@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 *"Code is the paintbrush, and the terminal is my canvas."*
