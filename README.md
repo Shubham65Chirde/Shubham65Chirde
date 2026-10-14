@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Chirde! 👋
 
-<marquee><h3>🚀 Full Stack Developer | ☕ Java & Spring Boot Specialist | ⚙️ Backend & Cloud Enthusiast</h3></marquee>
+<marquee><h3>🚀 Full Stack Developer | ☕ Java & Spring Boot Specialist | ⚙️ Backend Developer</h3></marquee>
 
 ---
 
