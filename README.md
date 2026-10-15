@@ -39,8 +39,6 @@
   Robust incident tracking platform featuring 15+ REST APIs, Role-Based Access Control (RBAC), and transactional CRUD workflows.
 - **📈 Stock Forecasting System** – Python, Flask, Machine Learning, MySQL  
   Predictive market trends and financial analytics platform powered by Python machine learning models and Flask APIs.
-- **📱 Mivro** – Node.js, Express, Angular/React, MongoDB  
-  Scalable service booking platform with end-to-end integration and responsive UI components.
 
 ---
 
